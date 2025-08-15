@@ -17,7 +17,7 @@ O objetivo deste projeto é realizar um sorteio diferente, onde o último partic
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/alissonromaosantos/sorteio
+git clone https://github.com/alissonromaosantos/sorteio.git
 cd sorteio
 ```
 ### 2. Instale as Dependências
